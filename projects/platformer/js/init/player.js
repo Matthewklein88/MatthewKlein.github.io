@@ -9,6 +9,7 @@
      */ 
     player.init = function (game) {
         game.player = opspark.createPlayer(game);
+          
         game.playerManager = opspark.createPlayerManager(game.player, game);
     };
 })(window);
