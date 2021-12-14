@@ -241,7 +241,8 @@ createCannon("left", 300, 1000); // a cannon on the left side of the screen, loc
 ## TODO 5: Make your level challenging!
 
 Now that you have platforms, cannons, and collectables make your game unique and challenging! In order to get full credit your project must be playable! Specifically, 
-* It must be possible to collect all collectables
+* It must be possible to collect all 
+collectables
 * It must require changing height to reach at least some collectables (jumping, falling, or a combination)
 * It must require active avoidance of cannon projectiles (i.e. you can't put all cannons in a corner)
 
